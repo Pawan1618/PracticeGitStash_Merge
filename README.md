@@ -1,5 +1,6 @@
 # 📘 EduPortal
 A simple educational portal built using HTML, CSS, and JavaScript.
+updating readme from feature 
 ## 🚀 Features
 - Clean UI and easy navigation  
 - Fully responsive layout  
